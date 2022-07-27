@@ -1,0 +1,10 @@
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-3\Udemy-Ornek-3\bin\Debug\Udemy-Ornek-3.exe.config
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-3\Udemy-Ornek-3\bin\Debug\Udemy-Ornek-3.exe
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-3\Udemy-Ornek-3\bin\Debug\Udemy-Ornek-3.pdb
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-3\Udemy-Ornek-3\obj\Debug\Udemy-Ornek-3.csproj.AssemblyReference.cache
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-3\Udemy-Ornek-3\obj\Debug\Udemy_Ornek_3.Form1.resources
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-3\Udemy-Ornek-3\obj\Debug\Udemy_Ornek_3.Properties.Resources.resources
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-3\Udemy-Ornek-3\obj\Debug\Udemy-Ornek-3.csproj.GenerateResource.cache
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-3\Udemy-Ornek-3\obj\Debug\Udemy-Ornek-3.csproj.CoreCompileInputs.cache
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-3\Udemy-Ornek-3\obj\Debug\Udemy-Ornek-3.exe
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-3\Udemy-Ornek-3\obj\Debug\Udemy-Ornek-3.pdb
